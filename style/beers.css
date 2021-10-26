@@ -1,0 +1,50 @@
+.bodyContainer {
+  background: #f1b452;
+}
+.mainWrapper {
+  height: 100vh;
+  width: 100wh;
+  background-color: #f1b452;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main {
+  width: 90vw;
+  height: 90vh;
+  background: #132f41;
+  border-radius: 10px;
+}
+.imageBeer {
+  height: 200px;
+}
+.imageWrapper {
+  padding: 10px;
+  width: 250px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.topdiv {
+  margin: 30px;
+  display: flex;
+  border-radius: 10px;
+}
+.text-left {
+  font-size: 14px;
+}
+.text-right {
+  font-size: 16;
+}
+.infoWrapper {
+  border-radius: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+.infoContainer {
+  width: 500px;
+  padding: 30px 0;
+  border-radius: 10px;
+  background: #ffffff99;
+}
